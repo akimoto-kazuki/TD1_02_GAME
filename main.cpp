@@ -215,11 +215,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 #pragma endregion
 
-	int startTimer = 0;
-	int startSecond = 0;
-
-#pragma endregion
-
 #pragma region ゲームクリアとゲームオーバー関係の関数
 
 
